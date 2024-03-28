@@ -1,4 +1,4 @@
-# Audio-Recommendation-Algo-
+Project Intro/Objective
 
 The project used unspurvised learning to analyze a dataset of songs, and their lyrical features. This is a real dataset of songs from 1950 to 2011. 
 
@@ -8,8 +8,20 @@ Within this project, I will create a comprehensive machine learning pipeline tha
 ● completing data cleaning, pre-processing, & dimensionality analysis,
 ● and concluding with model generation, sample prediction, and a report.
 
+Methods Used
 
-Report
+Inferential Statistics
+Machine Learning (Elbow Plot and Kmeans)
+Data Visualization
+Predictive Modeling
+
+Technologies
+Python
+Pandas, jupyter
+Project Description
+
+
+REPORT
 
 i. Which insights did you gain from your EDA? Were any columns highly correlated? If so, name them.
 
@@ -24,7 +36,7 @@ I mainly based on whether the columns are categorical columns or numerical colum
 iii. What was the optimal number of clusters in your cluster model? Explain how you determined this value.
 
 
-I used Kmeans to find the optimal number of clusters, Without scaling, the optimal number of clusters is 4 by looking at Elbow Plot graph. With scaling, the optimal number of cluster that I choose is 8. With my three predations, the optimal number of clusters is 4. 
+I used Kmeans to find the optimal number of clusters. Without scaling, the optimal number of clusters is 4 based on the Elbow Plot graph. With scaling, the optimal number of cluster that I choose is 8. With my three predations, the optimal number of clusters is 4. 
 
 iv. Take a look at the respective songs that fell into your clusters.
 Describe these clusters in human terms to the best of your ability
