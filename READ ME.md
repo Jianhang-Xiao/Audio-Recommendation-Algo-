@@ -16,6 +16,7 @@ Data Visualization
 Predictive Modeling
 
 Technologies
+
 Python
 Pandas, jupyter
 Project Description
